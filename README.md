@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sachin%20Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sachin%20Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Sachin Pandey**, a passionate Full Stack Developer and B.Tech CSE student from **Prayagraj, India 🇮🇳**.
+Hey! I'm **Sachin Pandey**, a Aspiring Full Stack Developer and B.Tech CSE student from **Prayagraj, India 🇮🇳**.
 
 I specialize in building **scalable, high-performance, AI-powered web applications** that solve real-world problems.
 
